@@ -1,0 +1,16 @@
+:root {
+  --bg-color: #2a2e39;
+  --foreground: #7aa1dd;
+}
+body {
+  background-color: var(--bg-color);
+}
+
+p {
+  line-height: 1.5rem;
+  font-size: 24px;
+  color: var(--foreground);
+
+}
+
+
