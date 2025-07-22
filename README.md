@@ -1,10 +1,10 @@
 # ⚙️ Código, Ideas y Proyectos de un Autodidacta ![versión](https://img.shields.io/badge/versión-0.0.0-blue?style=flat-square)
 
-> ⚠️ **Estado del proyecto**  
-> Actualmente estoy en fase inicial de desarrollo.  
+> ⚠️ **Estado del proyecto**
+> Actualmente estoy en fase inicial de desarrollo.
 > Explorando si construirlo con HTML/CSS/JS puro o apostar por algo más robusto y a largo plazo como Astro.
 
-Estoy construyendo mi sitio web y en él me gustaría compartir mis proyectos como desarrollador web y autodidacta.  
+Estoy construyendo mi sitio web y en él me gustaría compartir mis proyectos como desarrollador web y autodidacta.
 Además, quiero documentar este viaje escribiendo un blog sobre lo que voy aprendiendo, las herramientas que uso, ideas locas que se me ocurran y quizás algunos desvaríos filosófico-tecnológicos.
 
 Si te interesa mi trabajo y querés conocerme mejor, podés ver mi ~~currículum completo~~. <u>📄 Currículum disponible próximamente</u>.
