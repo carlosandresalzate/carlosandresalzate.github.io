@@ -84,12 +84,12 @@ p {
   font-size: 1em;
 }
 
-p + p {
+body p:nth-child(2) {
   align-self: center;
   font-size: 2em;
 }
 
-p ~ p + p {
+body p:last-child {
   align-self: self-end;
   font-size: 1em;
 }
