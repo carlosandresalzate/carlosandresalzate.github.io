@@ -81,8 +81,15 @@ body {
 
 p {
   margin: 1.2em;
-  
-  + p {
-    align-self: flex-end;
-  }
+  font-size: 1em;
+}
+
+p + p {
+  align-self: center;
+  font-size: 2em;
+}
+
+p ~ p + p {
+  align-self: self-end;
+  font-size: 1em;
 }
