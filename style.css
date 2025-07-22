@@ -89,7 +89,7 @@ body p:nth-child(2) {
   font-size: 2em;
 }
 
-body p:last-child {
+body p:nth-child(3) {
   align-self: self-end;
   font-size: 1em;
 }
